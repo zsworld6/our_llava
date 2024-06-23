@@ -1,0 +1,3 @@
+[submodule "ReAlign"]
+	path = ReAlign
+	url = https://github.com/GAIR-NLP/ReAlign
